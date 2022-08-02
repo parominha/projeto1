@@ -7,7 +7,7 @@ namespace projeto1
         static void Main(string[] args)
         {
             int numeroChamada = 0;
-            string nomeAluno = "Christian Perin";
+            string nomeAluno = "Christian Perin a";
 
             numeroChamada = 1;
 
